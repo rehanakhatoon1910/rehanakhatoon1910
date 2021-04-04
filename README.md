@@ -1,6 +1,6 @@
 ![Rehana Khatoon's-cover](./cover-image.png)
 
-## 🧔 About Me
+##  About Me
 
 - 🔭 I’m currently working on [CSS Art Gallery](https://github.com/rehanakhatoon1910/css-art-gallery)
 
