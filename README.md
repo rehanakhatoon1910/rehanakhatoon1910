@@ -1,4 +1,4 @@
-![Rehana Khatoon's-cover](./cover-image.png)
+![Rehana Khatoon's-cover](https://github.com/rehanakhatoon1910/rehanakhatoon1910/blob/main/cover-image.png)
 
 ##  About Me
 
