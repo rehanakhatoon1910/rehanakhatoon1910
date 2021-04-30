@@ -2,9 +2,9 @@
 
 ##  About Me
 
-- 🔭 I’m currently working on [CSS Art Gallery](https://github.com/rehanakhatoon1910/css-art-gallery)
+- 🔭 I’m currently working on [Software Development](https://github.com/rehanakhatoon1910/)
 
-- 🌱 I’m currently learning **App development, WordPress, HTML, CSS**
+- 🌱 I’m currently learning **Advanced App development, WordPress, HTML, CSS**
 
 - 👯 I’m looking to collaborate on **App development, WordPress, HTML, CSS Projects**
 
