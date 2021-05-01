@@ -26,7 +26,7 @@
 
 Here are some of my projects on Github that I am proud of:
 
-[![Banking App](https://github-readme-stats.vercel.app/api/pin/?username=rehanakhatoon1910&repo=AndroidApp-SimpleBankingApp&show_icons=true&theme=dark)](https://github.com/rehanakhatoon1910/AndroidApp-SimpleBankingApp)
+[![Banking App](https://github-readme-stats.vercel.app/api/pin/?username=rehanakhatoon1910&repo=Banking-App-Revised&show_icons=true&theme=dark)](https://github.com/rehanakhatoon1910/Banking-App-Revised)
 [![Invisibility Cloak](https://github-readme-stats.vercel.app/api/pin/?username=rehanakhatoon1910&repo=Invisibility-cloak&show_icons=true&theme=dark)](https://github.com/rehanakhatoon1910/Invisibility-cloak)
 [![Customer Billing System](https://github-readme-stats.vercel.app/api/pin/?username=rehanakhatoon1910&repo=Customer-billing-system-using-C---beginner&show_icons=true&theme=dark)](https://github.com/rehanakhatoon1910/Customer-billing-system-using-C---beginner)
 [![Hourly Bike Rental Demand](https://github-readme-stats.vercel.app/api/pin/?username=rehanakhatoon1910&repo=Hourly-bike-rental-demand-prediction&show_icons=true&theme=dark)](https://github.com/rehanakhatoon1910/Hourly-bike-rental-demand-prediction)
