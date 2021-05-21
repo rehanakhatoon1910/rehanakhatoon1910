@@ -14,7 +14,7 @@
 
 
 
-- 📫 Contact me **[here](rehanakhatoon7759@gmail.com)**
+- 📫 Contact me **[here](https://www.linkedin.com/in/rehanakhatoon/)**
 
 - 📄 My Resume [https://github.com/rehanakhatoon1910](https://github.com/rehanakhatoon1910)
 
