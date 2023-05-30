@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on [Software Development](https://github.com/rehanakhatoon1910/)
 
-- 🌱 I’m currently learning **Advanced App development, WordPress, HTML, CSS**
+- 🌱 I’m currently working as a Software Engineer at Persistent Systems Limited
 
-- 👯 I’m looking to collaborate on **App development, WordPress, HTML, CSS Projects**
+- 👯 I’m looking to collaborate on development projects.
 
 - 👨‍💻 All of my projects are available at [https://github.com/rehanakhatoon1910](https://github.com/rehanakhatoon1910)
 
