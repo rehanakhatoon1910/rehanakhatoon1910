@@ -2,36 +2,19 @@
 
 ##  About Me
 
-- 🔭 I’m currently working on [Software Development](https://github.com/rehanakhatoon1910/)
+- 🔭 I am a [Java Full Stack Software Developer](https://github.com/rehanakhatoon1910/)
 
-- 🌱 I’m currently working as a Software Engineer at Persistent Systems Limited
+- 🌱 Currently working as a Senior Software Engineer at Persistent Systems Limited
 
-- 👯 I’m looking to collaborate on development projects.
-
-- 👨‍💻 All of my projects are available at [https://github.com/rehanakhatoon1910](https://github.com/rehanakhatoon1910)
-
-- You can check out my App Development projects right here **[https://github.com/rehanakhatoon1910/AndroidApp-SimpleBankingApp](https://github.com/rehanakhatoon1910/AndroidApp-SimpleBankingApp)**.
-
-
-
-- 📫 Contact me **[here](https://www.linkedin.com/in/rehanakhatoon/)**
-
-- 📄 My Resume [https://github.com/rehanakhatoon1910](https://github.com/rehanakhatoon1910)
-
+- 👯 Looking to collaborate on development projects.
 
 
 ## ✍ My Work
 
 [![Rehana's GitHub stats](https://github-readme-stats.vercel.app/api?username=rehanakhatoon1910&show_icons=true&theme=dark)](https://github.com/rehanakhatoon1910)
 
-Here are some of my projects on Github that I am proud of:
 
-[![Banking App](https://github-readme-stats.vercel.app/api/pin/?username=rehanakhatoon1910&repo=Banking-App-Revised&show_icons=true&theme=dark)](https://github.com/rehanakhatoon1910/Banking-App-Revised)
-[![Invisibility Cloak](https://github-readme-stats.vercel.app/api/pin/?username=rehanakhatoon1910&repo=Invisibility-cloak&show_icons=true&theme=dark)](https://github.com/rehanakhatoon1910/Invisibility-cloak)
-[![Snake Game](https://github-readme-stats.vercel.app/api/pin/?username=rehanakhatoon1910&repo=Snake-game&show_icons=true&theme=dark)](https://github.com/rehanakhatoon1910/Snake-game)
-[![TODO App](https://github-readme-stats.vercel.app/api/pin/?username=rehanakhatoon1910&repo=TODO-App&show_icons=true&theme=dark)](https://github.com/rehanakhatoon1910/TODO-App)
-
-## 📚 My Skills
+<!-- ## 📚 My Skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rehanakhatoon1910&layout=compact&show_icons=true&theme=dark)](https://github.com/rehanakhatoon1910)
 
@@ -53,6 +36,7 @@ Here are some of my projects on Github that I am proud of:
 ![Skill](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Skill](https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Skill](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+-->
 
 ## 🤝 Connect
 
